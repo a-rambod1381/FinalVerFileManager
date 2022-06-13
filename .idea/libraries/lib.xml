@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://D:/JavaFX SDK/javafx-sdk-18.0.1/lib" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/ojdbc6-11.2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/JavaFX SDK/javafx-sdk-18.0.1/lib" recursive="false" />
+  </library>
+</component>
